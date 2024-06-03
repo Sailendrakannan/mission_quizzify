@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "academic-osprey-419918",
+  "private_key_id": "f1b76902fa97365b2c32183ee861fe2592099a3c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIjtr8nrsMVrbU\n3RQBK780UWmfVy/jGzG87EsXvPRxXELx+2BV+20jiqNLDzkWmsMfgC7TH+Z10G8w\n/7SWWRgbCouGcKGo9Vbw9/tH7s7alZaBKLww2LilTIsbTTjJ4ofLw76iKWLoRWTC\n0pME9jrJCZdAp+Oo1V5VKuZT0wG2J2nYz3gXnkgAEZnT9o5oRyGso2IP49oTqelD\nSK2HE92rRs9cPvL7OOwxHznSrdIcNqId1cVwhMif7MxdpvgO9bJ2K8pVvU9IzS4f\nzBhkCYxiX6GyUOIX47W8QLgf1b9kwq0bgOaGMIZqsnJmp+m9Ncri1TvLsWjs2XLi\n9bxdcHJHAgMBAAECggEAAOzac8SOW63hZV/+YfcACHoWVlGCULY6Z4MLjE4nLogH\nbbMELGwJgoV24AzE7abEdFZqC41KdIwD8feWr1mKiUK7hrY++Kw7vMbYFj/dcm1d\nkWD3up31VBs4n7qeeB1Jv8CPwOhsoreskaguXMfUrkK+EOKgDpJVahKAQi4SBEjD\ngLcp+D6uA6NQsLy6hr3n8S4X11wI3KDgoaDv5R2nzqmN6GhOfRxg7tKcUpGiucfR\ng4imKwXYhEQ+D1R9WtcrusK/OmV43Z3FHkdz81OBs+wOVofQoQZ8jEmWV2TfkD4S\nxQI1NiQnVBu1wUWqOouq68OWFgKl7yyMwLh2IC69YQKBgQDuHENWDD5ApizoWET/\nEh5TdOUE5t8YAhnL7/RVVoNv7iN3xYSleD+CvfSaB2MU7lx/voRw2+/bWPf4mMNk\nGRehPcjAKjwqG9RexYMGeTLCd88zNjh0JDo0jL1I+o7JXtg24EGZ3rZDevEYcZVI\n/ZXcI3juzNzpa0BI71xDI+jykQKBgQDXoFKJ2SY7BBfI3Y+/xG9abDZNQNUnHeug\nJI8sZXFyRJf+Je3CkuR9CW1k7yxJ84fAIjbE6T6qkj0Wve6R/MLFWmrzwDiq4wyC\nihD9gAtDM971d7tvN03aSRVjlteCM/KjCievtdhqy1AAyB8v8+24eO7qRH0MN4V3\n59iLlxFTVwKBgQC7mQTsXIUHhmVHQZRKqkm+UxDFBeirD6ynYoxMV/cCTsse6D2T\n6OOQ7Hw0hrFnoky6UK4kBQQ6+yOTdzgqOyLE5NqvnBb+ziJJ8K9EgGSflqlmncdo\nqco58NCJGO86dEFBKvpEcpWDIO+m5IZLlY9me4QiEMHUHa3uSLeWJkq4IQKBgQDT\nDmY774TwNy1gux29QvULuOfd7hu1UiAUfDR37EOC6YkshsuWrFlh2hxts33SVMEH\nW3Xof7WLF+EbpYUi+BldOwd81yWgfuT70VCYEQD1IoyWEEAyuBtIEkkRVdBT7a0N\n0R7PalsPDTqdyURdl5GUAys3uxn7H01Q9GqNF60puQKBgHT3lWgurMOfGzZchG8a\nMgDyibqqKPrLrZ1Yn0S3ydaYzVeudBlhsQ+fWNSvLf7HX8F3F7+2gHr24pTb2ySS\nhLgngs6YgR/DNYKwhcbepS4i4Da2WrBuDka3zpTLGqRlfCEcds4+v/LhO6GEBq2N\n7ij4HWVPREAkMkQkJdg5VAyq\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit@academic-osprey-419918.iam.gserviceaccount.com",
+  "client_id": "108347157597236846219",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit%40academic-osprey-419918.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
